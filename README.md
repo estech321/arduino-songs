@@ -1,7 +1,7 @@
 # Songs for playing on Arduino boards.
 
 ## Credit
-This repo is based on the original [arduino-songs](https://github.com/robsoncouto/arduino-songs/tree/master) by [robsoncouto](https://github.com/robsoncouto). I have modified it in a way that the songs loop, rather than simply playing once. This is great if you want constant music, rather than just listening once. I featured Robson's code in my video [Play Music with an Arduino!](https://youtu.be/D-Xrg87QFxc)
+This repo is based on the original [arduino-songs](https://github.com/robsoncouto/arduino-songs/tree/master) by [robsoncouto](https://github.com/robsoncouto). I have modified it in a way that the songs loop, rather than simply playing once. This is great if you want constant music, rather than just listening once. I featured Robson's code in my video [Play Music with an Arduino!](https://youtu.be/D-Xrg87QFxc).
 
 ## Usage
 
