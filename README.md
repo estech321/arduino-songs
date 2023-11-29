@@ -1,5 +1,8 @@
 # Songs for playing on Arduino boards.
 
+## Credit
+This repo is based on the original [arduino-songs](https://github.com/robsoncouto/arduino-songs/tree/master) by [robsoncouto](https://github.com/robsoncouto). I have modified it in a way that the songs loop, rather than simply playing once. This is great if you want constant music, rather than just listening once. I featured Robson's code in my video [Play Music with an Arduino!](https://youtu.be/D-Xrg87QFxc)
+
 ## Usage
 
 Every code here should run on every arduino board without problems. The sketches rely solely on the tone() function from Arduino, so the sounds are all monophonic. On the bright side, **libraries are not required**.
@@ -57,4 +60,4 @@ There are two kinds of piezo buzzers: active and passive. The active one that pl
 
 ## Copyright
 
-Every sketch here has been written by myself, although based on scores I found online or books I own. These scores are linked in each file when possible. You can use the sketches for anything, I only kindly ask that you give credit if you use these codes on a tutorial, video, example, etc. 
+Every sketch here has been written by Robson, although based on scores he found online or books he owns. These scores are linked in each file when possible. You can use the sketches for anything, he only kindly asks that you give credit if you use these codes on a tutorial, video, example, etc. These copies of the files have been modified to loop the song instead of just playing once.
